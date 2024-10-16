@@ -23,7 +23,7 @@ header img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid rgb(255, 0, 0);
+    border: 5px solid rgb(5, 187, 243);
 }
 
 .center{
@@ -31,7 +31,7 @@ header img {
 }
 
 h1 {
-    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 
